@@ -1,1 +1,1 @@
-Vinay, has the authority to manage access to various components and maintain an Excel sheet containing the related details.
+Build a Python application that securely authenticates to GitHub using a Personal Access Token, fetches all accessible repositories (personal and organization), and displays them in a dropdown list within the UI. 
